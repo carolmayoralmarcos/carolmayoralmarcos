@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi, I'm Carolina 👋</h1>
  </div>
-<img src="https://res.cloudinary.com/degg0tuc1/image/upload/v1727180798/Banner_de_LinkedIn_Lugar_de_Trabajo_Ordenado_pbcwbq.png">
+<img src="https://res.cloudinary.com/degg0tuc1/image/upload/v1732634640/Banner_para_Linkedin_Personal_Minimalista_Neutral_2_h2j0ei.png">
 </div>
 
 <h3 align="left">Connect with me:</h3>
